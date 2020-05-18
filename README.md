@@ -19,6 +19,9 @@ Envisioned here are:
 Colors taken from [Nord Theme](https://www.nordtheme.com/).<br/>
 [Nord Github](https://github.com/arcticicestudio/nord)
 
+## Font Used
+Gotham (_Commercial License to be purchased_)
+
 ## Screenshots
 Light and Dark versions
 
