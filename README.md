@@ -22,23 +22,19 @@ Colors taken from [Nord Theme](https://www.nordtheme.com/).<br/>
 ## Screenshots
 Light and Dark versions
 
-<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%201.jpg" alt="drawing" width="300"/>
-<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%201.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%201.jpg" alt="drawing" width="300"/><img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%201.jpg" alt="drawing" width="300"/>
 
 Total Holdings and Transaction pages
 
-<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%202.jpg" alt="drawing" width="300"/>
-<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%202.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%202.jpg" alt="drawing" width="300"/><img src="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%202.jpg" alt="drawing" width="300"/>
 
 Easily send and recieve eth and other ERC-20 Tokens
 
-<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%203.jpg" alt="drawing" width="300"/>
-<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%203.jpg" alt="drawing" width="300"/>
+<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%203.jpg" alt="drawing" width="300"/><img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%203.jpg" alt="drawing" width="300"/>
 
 Menu, Theme and Export options
 
-<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%204.jpg" alt="drawing" width="300"/>
-<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%204.jpg" alt="drawing" width="300"/>
+<img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/light%204.jpg" alt="drawing" width="300"/><img src ="https://raw.githubusercontent.com/vasundhasauras/mETH/master/Screenshots/dark%204.jpg" alt="drawing" width="300"/>
 
 Price Graph
 
